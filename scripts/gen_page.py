@@ -580,8 +580,8 @@ def generate_html(reading_data, output_file="index.html"):
             
             // 备用图片源 - 尝试多种可能的 URL 格式
             var imgSources = [
-                "https://img.owspace.com/Public/uploads/Download/" + y + "/" + m + n + ".jpg",
-                "https://img.owspace.com/Public/uploads/Download/" + y + "-" + m + "-" + n + ".jpg"
+                "https://img.owspace.com/Public/uploads/Download/" + y + "/" + mm + dd + ".jpg",
+                "https://img.owspace.com/Public/uploads/Download/" + y + "/" + m + n + ".jpg"
             ];
             
             tryLoadImage(0);
