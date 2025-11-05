@@ -15,42 +15,51 @@
     "2025-10-31",
     "2025-11-01",
     "2025-11-02",
-    "2025-11-03"
+    "2025-11-03",
+    "2025-11-04"
   ],
   "current_daily_streak": {
-    "duration": 12,
+    "duration": 13,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-03T08:00:00.000Z",
+    "utcEndTime": "2025-11-04T08:00:00.000Z",
     "start": "2025-10-23T00:00:00.000Z",
-    "end": "2025-11-03T00:00:00.000Z",
-    "ttl": 1762243937
+    "end": "2025-11-04T00:00:00.000Z",
+    "ttl": 1762305583
   },
   "longest_daily_streak": {
-    "duration": 12,
+    "duration": 13,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-03T08:00:00.000Z",
+    "utcEndTime": "2025-11-04T08:00:00.000Z",
     "start": "2025-10-23T00:00:00.000Z",
-    "end": "2025-11-03T00:00:00.000Z"
+    "end": "2025-11-04T00:00:00.000Z"
   },
   "current_weekly_streak": {
     "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-03T08:00:00.000Z",
+    "utcEndTime": "2025-11-04T08:00:00.000Z",
     "start": "2025-10-21T00:00:00.000Z",
-    "end": "2025-11-03T00:00:00.000Z",
-    "ttl": 1762243937
+    "end": "2025-11-04T00:00:00.000Z",
+    "ttl": 1762305583
   },
   "longest_weekly_streak": {
     "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-03T08:00:00.000Z",
+    "utcEndTime": "2025-11-04T08:00:00.000Z",
     "start": "2025-10-21T00:00:00.000Z",
-    "end": "2025-11-03T00:00:00.000Z"
+    "end": "2025-11-04T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "Z4MECTNJM7UDFYJB5OF7CTXY46US72QO",
+        "read_event_id": "f979895c-dccb-42f5-9965-8cab7c777667",
+        "date_read": "2025-11-04T08:54:39-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "YSZF3F37WRJZ5H7M3UAIWCWMK3XTZOBZ",
         "read_event_id": "adf67c03-b213-4f9f-a2d6-bf4b8087c891",
@@ -83,14 +92,14 @@
   "achievements_data": {
     "daysLeftInCurrentChallenge": 57,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 3,
+    "totalEarnedAchievements": 4,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_HeadStart_09b4f501-d681-35c1-a3b9-5daf29329383.png",
-        "quantity": 2,
-        "title": "Head Start",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Bookworm_7c2e8900-ee16-3097-a931-40fd2065deee.png",
+        "quantity": 1,
+        "title": "Bookworm",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
+        "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_GoldReader_d1885062-9926-390f-bc57-5e95018fe6ea.png",
