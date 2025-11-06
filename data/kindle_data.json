@@ -16,37 +16,38 @@
     "2025-11-01",
     "2025-11-02",
     "2025-11-03",
-    "2025-11-04"
+    "2025-11-04",
+    "2025-11-05"
   ],
   "current_daily_streak": {
-    "duration": 13,
+    "duration": 14,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-04T08:00:00.000Z",
+    "utcEndTime": "2025-11-05T08:00:00.000Z",
     "start": "2025-10-23T00:00:00.000Z",
-    "end": "2025-11-04T00:00:00.000Z",
-    "ttl": 1762305583
+    "end": "2025-11-05T00:00:00.000Z",
+    "ttl": 1762391967
   },
   "longest_daily_streak": {
-    "duration": 13,
+    "duration": 14,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-04T08:00:00.000Z",
+    "utcEndTime": "2025-11-05T08:00:00.000Z",
     "start": "2025-10-23T00:00:00.000Z",
-    "end": "2025-11-04T00:00:00.000Z"
+    "end": "2025-11-05T00:00:00.000Z"
   },
   "current_weekly_streak": {
     "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-04T08:00:00.000Z",
+    "utcEndTime": "2025-11-05T08:00:00.000Z",
     "start": "2025-10-21T00:00:00.000Z",
-    "end": "2025-11-04T00:00:00.000Z",
-    "ttl": 1762305583
+    "end": "2025-11-05T00:00:00.000Z",
+    "ttl": 1762391967
   },
   "longest_weekly_streak": {
     "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-04T08:00:00.000Z",
+    "utcEndTime": "2025-11-05T08:00:00.000Z",
     "start": "2025-10-21T00:00:00.000Z",
-    "end": "2025-11-04T00:00:00.000Z"
+    "end": "2025-11-05T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
@@ -90,14 +91,14 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 57,
+    "daysLeftInCurrentChallenge": 56,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 4,
+    "totalEarnedAchievements": 5,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Bookworm_7c2e8900-ee16-3097-a931-40fd2065deee.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_BronzeReader_2ad3545a-52d9-3c3c-9fdd-c935e4a94744.png",
         "quantity": 1,
-        "title": "Bookworm",
+        "title": "Bronze Reader",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
