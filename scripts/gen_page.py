@@ -34,39 +34,33 @@ def calculate_stats(reading_days):
     this_month_days = len([d for d in reading_days.keys() if d.startswith(current_month)])
     
     sorted_dates = sorted(reading_days.keys(), reverse=True)
-    current_streak = 0
-    longest_streak = 0
-    temp_streak = 1
     today = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
+    yesterday = today - timedelta(days=1)
     
-    for i, date_str in enumerate(sorted_dates):
-        current_date = datetime.strptime(date_str, "%Y-%m-%d")
-        
-        if i == 0:
-            days_diff = (today - current_date).days
-            if days_diff <= 2:
-                current_streak = 1
+    # Calculate current streak: count consecutive days from yesterday backwards
+    current_streak = 0
+    check_date = yesterday
+    while check_date.strftime("%Y-%m-%d") in reading_days:
+        current_streak += 1
+        check_date = check_date - timedelta(days=1)
+    
+    # Calculate longest streak
+    longest_streak = 0
+    temp_streak = 0
+    if sorted_dates:
+        sorted_date_objs = [datetime.strptime(d, "%Y-%m-%d") for d in sorted_dates]
+        for i, current_date in enumerate(sorted_date_objs):
+            if i == 0:
                 temp_streak = 1
             else:
-                current_streak = 0
-                temp_streak = 1
-        else:
-            prev_date = datetime.strptime(sorted_dates[i-1], "%Y-%m-%d")
-            days_diff = (prev_date - current_date).days
-            
-            if days_diff == 1:
-                temp_streak += 1
-                if current_streak > 0:
-                    current_streak = temp_streak
-            else:
-                longest_streak = max(longest_streak, temp_streak)
-                if current_streak == 0:
-                    temp_streak = 1
+                prev_date = sorted_date_objs[i-1]
+                days_diff = (prev_date - current_date).days
+                if days_diff == 1:
+                    temp_streak += 1
                 else:
-                    current_streak = 0
+                    longest_streak = max(longest_streak, temp_streak)
                     temp_streak = 1
-    
-    longest_streak = max(longest_streak, temp_streak, current_streak)
+        longest_streak = max(longest_streak, temp_streak)
     
     return {
         "total_days": total_days,
