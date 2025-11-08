@@ -44,7 +44,7 @@ def calculate_stats(reading_days):
         
         if i == 0:
             days_diff = (today - current_date).days
-            if days_diff <= 1:
+            if days_diff <= 2:
                 current_streak = 1
                 temp_streak = 1
             else:
