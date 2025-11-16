@@ -26,37 +26,38 @@
     "2025-11-11",
     "2025-11-12",
     "2025-11-13",
-    "2025-11-14"
+    "2025-11-14",
+    "2025-11-15"
   ],
   "current_daily_streak": {
-    "duration": 23,
+    "duration": 24,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-14T08:00:00.000Z",
+    "utcEndTime": "2025-11-15T08:00:00.000Z",
     "start": "2025-10-23T00:00:00.000Z",
-    "end": "2025-11-14T00:00:00.000Z",
-    "ttl": 1763169437
+    "end": "2025-11-15T00:00:00.000Z",
+    "ttl": 1763256267
   },
   "longest_daily_streak": {
-    "duration": 23,
+    "duration": 24,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-14T08:00:00.000Z",
+    "utcEndTime": "2025-11-15T08:00:00.000Z",
     "start": "2025-10-23T00:00:00.000Z",
-    "end": "2025-11-14T00:00:00.000Z"
+    "end": "2025-11-15T00:00:00.000Z"
   },
   "current_weekly_streak": {
     "duration": 4,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-14T08:00:00.000Z",
+    "utcEndTime": "2025-11-15T08:00:00.000Z",
     "start": "2025-10-21T00:00:00.000Z",
-    "end": "2025-11-14T00:00:00.000Z",
-    "ttl": 1763169437
+    "end": "2025-11-15T00:00:00.000Z",
+    "ttl": 1763256267
   },
   "longest_weekly_streak": {
     "duration": 4,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-14T08:00:00.000Z",
+    "utcEndTime": "2025-11-15T08:00:00.000Z",
     "start": "2025-10-21T00:00:00.000Z",
-    "end": "2025-11-14T00:00:00.000Z"
+    "end": "2025-11-15T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
@@ -108,16 +109,16 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 47,
+    "daysLeftInCurrentChallenge": 46,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 6,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Bibliophile_a45cb854-f187-33a3-b18f-9b143b7ddeb1.png",
-        "quantity": 1,
-        "title": "Bibliophile",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_PerfectWeek_2f44a5ab-bd98-3e84-8228-ff7fa34d6a8b.png",
+        "quantity": 3,
+        "title": "Perfect Week",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_GoldReader_d1885062-9926-390f-bc57-5e95018fe6ea.png",
