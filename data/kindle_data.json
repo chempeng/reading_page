@@ -35,37 +35,38 @@
     "2025-11-20",
     "2025-11-21",
     "2025-11-22",
-    "2025-11-23"
+    "2025-11-23",
+    "2025-11-24"
   ],
   "current_daily_streak": {
-    "duration": 32,
+    "duration": 33,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-23T08:00:00.000Z",
+    "utcEndTime": "2025-11-24T08:00:00.000Z",
     "start": "2025-10-23T00:00:00.000Z",
-    "end": "2025-11-23T00:00:00.000Z",
-    "ttl": 1763947447
+    "end": "2025-11-24T00:00:00.000Z",
+    "ttl": 1764033564
   },
   "longest_daily_streak": {
-    "duration": 32,
+    "duration": 33,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-23T08:00:00.000Z",
+    "utcEndTime": "2025-11-24T08:00:00.000Z",
     "start": "2025-10-23T00:00:00.000Z",
-    "end": "2025-11-23T00:00:00.000Z"
+    "end": "2025-11-24T00:00:00.000Z"
   },
   "current_weekly_streak": {
     "duration": 6,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-23T08:00:00.000Z",
+    "utcEndTime": "2025-11-24T08:00:00.000Z",
     "start": "2025-10-21T00:00:00.000Z",
-    "end": "2025-11-23T00:00:00.000Z",
-    "ttl": 1763947447
+    "end": "2025-11-24T00:00:00.000Z",
+    "ttl": 1764033564
   },
   "longest_weekly_streak": {
     "duration": 6,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-23T08:00:00.000Z",
+    "utcEndTime": "2025-11-24T08:00:00.000Z",
     "start": "2025-10-21T00:00:00.000Z",
-    "end": "2025-11-23T00:00:00.000Z"
+    "end": "2025-11-24T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
@@ -117,16 +118,16 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 38,
+    "daysLeftInCurrentChallenge": 37,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 6,
+    "totalEarnedAchievements": 7,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_PerfectWeek_2f44a5ab-bd98-3e84-8228-ff7fa34d6a8b.png",
-        "quantity": 4,
-        "title": "Perfect Week",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_HouseCat_129cb6fe-a249-4e78-8f67-ca48bf36bdbc.png",
+        "quantity": 1,
+        "title": "House Cat",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
+        "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_GoldReader_d1885062-9926-390f-bc57-5e95018fe6ea.png",
