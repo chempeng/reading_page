@@ -38,6 +38,121 @@
     "2025-11-23",
     "2025-11-24",
     "2025-11-25",
-    "2025-11-26"
-  ]
+    "2025-11-26",
+    "2025-11-27"
+  ],
+  "current_daily_streak": {
+    "duration": 36,
+    "readingMarketplace": 1,
+    "utcEndTime": "2025-11-27T08:00:00.000Z",
+    "start": "2025-10-23T00:00:00.000Z",
+    "end": "2025-11-27T00:00:00.000Z",
+    "ttl": 1764292656
+  },
+  "longest_daily_streak": {
+    "duration": 36,
+    "readingMarketplace": 1,
+    "utcEndTime": "2025-11-27T08:00:00.000Z",
+    "start": "2025-10-23T00:00:00.000Z",
+    "end": "2025-11-27T00:00:00.000Z"
+  },
+  "current_weekly_streak": {
+    "duration": 6,
+    "readingMarketplace": 1,
+    "utcEndTime": "2025-11-27T08:00:00.000Z",
+    "start": "2025-10-21T00:00:00.000Z",
+    "end": "2025-11-27T00:00:00.000Z",
+    "ttl": 1764292656
+  },
+  "longest_weekly_streak": {
+    "duration": 6,
+    "readingMarketplace": 1,
+    "utcEndTime": "2025-11-27T08:00:00.000Z",
+    "start": "2025-10-21T00:00:00.000Z",
+    "end": "2025-11-27T00:00:00.000Z"
+  },
+  "current_weekly_streak_state": "record_streak_broken",
+  "goal_info": {
+    "goals": {},
+    "titles_read": [
+      {
+        "asin": "4EBJE4EBPBH7YQRJEQGZFQOYON7FTI5E",
+        "read_event_id": "e6ba59d0-f6e5-4da2-ba5c-1f6ef2ca00e1",
+        "date_read": "2025-11-09T00:27:08-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "Z4MECTNJM7UDFYJB5OF7CTXY46US72QO",
+        "read_event_id": "f979895c-dccb-42f5-9965-8cab7c777667",
+        "date_read": "2025-11-04T08:54:39-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "YSZF3F37WRJZ5H7M3UAIWCWMK3XTZOBZ",
+        "read_event_id": "adf67c03-b213-4f9f-a2d6-bf4b8087c891",
+        "date_read": "2025-10-28T22:40:04-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "89B965055B1648CEA71827F9B02EF1D4",
+        "read_event_id": "3b37f66c-fa1b-484e-92b8-ab7a6fd5ee0f",
+        "date_read": "2024-06-04T15:51:42Z",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "F8FDD787C38F44A0A051C299191E8765",
+        "read_event_id": "904b4121-5a45-46d0-8e1b-f6dd7c820ed0",
+        "date_read": "2024-06-04T07:05:45Z",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      }
+    ],
+    "is_backfill_completed": true
+  },
+  "preferences": null,
+  "urcGatingWeblabTreatment": "T1",
+  "achievements_data": {
+    "daysLeftInCurrentChallenge": 34,
+    "totalAvailableAchievements": 16,
+    "totalEarnedAchievements": 7,
+    "achievementsDisplayAttributes": [
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_HouseCat_129cb6fe-a249-4e78-8f67-ca48bf36bdbc.png",
+        "quantity": 1,
+        "title": "House Cat",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": false
+      },
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_GoldReader_d1885062-9926-390f-bc57-5e95018fe6ea.png",
+        "quantity": 0,
+        "title": "Gold Reader",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": false
+      },
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_SilverReader_21fe19f7-5807-3fb7-a491-c14e7a519764.png",
+        "quantity": 0,
+        "title": "Silver Reader",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": false
+      },
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_PerfectMonth_cf56a3c0-9331-3abf-950e-46d7ac1e8967.png",
+        "quantity": 0,
+        "title": "Perfect Month",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": true
+      }
+    ]
+  }
 }
