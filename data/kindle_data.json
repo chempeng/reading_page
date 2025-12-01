@@ -41,37 +41,38 @@
     "2025-11-26",
     "2025-11-27",
     "2025-11-28",
-    "2025-11-29"
+    "2025-11-29",
+    "2025-11-30"
   ],
   "current_daily_streak": {
-    "duration": 38,
+    "duration": 39,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-29T08:00:00.000Z",
+    "utcEndTime": "2025-11-30T08:00:00.000Z",
     "start": "2025-10-23T00:00:00.000Z",
-    "end": "2025-11-29T00:00:00.000Z",
-    "ttl": 1764466115
+    "end": "2025-11-30T00:00:00.000Z",
+    "ttl": 1764553413
   },
   "longest_daily_streak": {
-    "duration": 38,
+    "duration": 39,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-29T08:00:00.000Z",
+    "utcEndTime": "2025-11-30T08:00:00.000Z",
     "start": "2025-10-23T00:00:00.000Z",
-    "end": "2025-11-29T00:00:00.000Z"
+    "end": "2025-11-30T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 6,
+    "duration": 7,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-29T08:00:00.000Z",
+    "utcEndTime": "2025-11-30T08:00:00.000Z",
     "start": "2025-10-21T00:00:00.000Z",
-    "end": "2025-11-29T00:00:00.000Z",
-    "ttl": 1764466115
+    "end": "2025-11-30T00:00:00.000Z",
+    "ttl": 1764553413
   },
   "longest_weekly_streak": {
-    "duration": 6,
+    "duration": 7,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-29T08:00:00.000Z",
+    "utcEndTime": "2025-11-30T08:00:00.000Z",
     "start": "2025-10-21T00:00:00.000Z",
-    "end": "2025-11-29T00:00:00.000Z"
+    "end": "2025-11-30T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
@@ -131,14 +132,14 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 32,
+    "daysLeftInCurrentChallenge": 31,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 8,
+    "totalEarnedAchievements": 10,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_PerfectWeek_2f44a5ab-bd98-3e84-8228-ff7fa34d6a8b.png",
-        "quantity": 5,
-        "title": "Perfect Week",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_PerfectMonth_7e50153a-47ab-3e55-9696-dfd76d566392.png",
+        "quantity": 1,
+        "title": "Perfect Month",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": true
       },
@@ -150,18 +151,18 @@
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_SilverReader_21fe19f7-5807-3fb7-a491-c14e7a519764.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_PumpkinPrime_81c49b67-9e95-4e69-b17a-b8e1fa268abf.png",
         "quantity": 0,
-        "title": "Silver Reader",
+        "title": "Pumpkin Prime",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_PerfectMonth_cf56a3c0-9331-3abf-950e-46d7ac1e8967.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_FallColors_46cc3ba2-cee6-455b-9298-97ac70242996.png",
         "quantity": 0,
-        "title": "Perfect Month",
+        "title": "Fall Colors",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
+        "hasLevel": false
       }
     ]
   }
