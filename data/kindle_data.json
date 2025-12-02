@@ -42,37 +42,38 @@
     "2025-11-27",
     "2025-11-28",
     "2025-11-29",
-    "2025-11-30"
+    "2025-11-30",
+    "2025-12-01"
   ],
   "current_daily_streak": {
-    "duration": 39,
+    "duration": 40,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-30T08:00:00.000Z",
+    "utcEndTime": "2025-12-01T08:00:00.000Z",
     "start": "2025-10-23T00:00:00.000Z",
-    "end": "2025-11-30T00:00:00.000Z",
-    "ttl": 1764553413
+    "end": "2025-12-01T00:00:00.000Z",
+    "ttl": 1764638460
   },
   "longest_daily_streak": {
-    "duration": 39,
+    "duration": 40,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-30T08:00:00.000Z",
+    "utcEndTime": "2025-12-01T08:00:00.000Z",
     "start": "2025-10-23T00:00:00.000Z",
-    "end": "2025-11-30T00:00:00.000Z"
+    "end": "2025-12-01T00:00:00.000Z"
   },
   "current_weekly_streak": {
     "duration": 7,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-30T08:00:00.000Z",
+    "utcEndTime": "2025-12-01T08:00:00.000Z",
     "start": "2025-10-21T00:00:00.000Z",
-    "end": "2025-11-30T00:00:00.000Z",
-    "ttl": 1764553413
+    "end": "2025-12-01T00:00:00.000Z",
+    "ttl": 1764638460
   },
   "longest_weekly_streak": {
     "duration": 7,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-11-30T08:00:00.000Z",
+    "utcEndTime": "2025-12-01T08:00:00.000Z",
     "start": "2025-10-21T00:00:00.000Z",
-    "end": "2025-11-30T00:00:00.000Z"
+    "end": "2025-12-01T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
@@ -131,15 +132,16 @@
   },
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
+  "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 31,
+    "daysLeftInCurrentChallenge": 30,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 10,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_PerfectMonth_7e50153a-47ab-3e55-9696-dfd76d566392.png",
-        "quantity": 1,
-        "title": "Perfect Month",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_HeadStart_09b4f501-d681-35c1-a3b9-5daf29329383.png",
+        "quantity": 3,
+        "title": "Head Start",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": true
       },
