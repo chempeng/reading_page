@@ -76,15 +76,16 @@
     "2026-01-23",
     "2026-01-24",
     "2026-01-25",
-    "2026-01-26"
+    "2026-01-26",
+    "2026-01-28"
   ],
   "current_daily_streak": {
-    "duration": 5,
+    "duration": 1,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-01-26T08:00:00.000Z",
-    "start": "2026-01-22T00:00:00.000Z",
-    "end": "2026-01-26T00:00:00.000Z",
-    "ttl": 1769563719
+    "utcEndTime": "2026-01-28T08:00:00.000Z",
+    "start": "2026-01-28T00:00:00.000Z",
+    "end": "2026-01-28T00:00:00.000Z",
+    "ttl": 1769651401
   },
   "longest_daily_streak": {
     "duration": 52,
@@ -96,17 +97,17 @@
   "current_weekly_streak": {
     "duration": 15,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-01-26T08:00:00.000Z",
+    "utcEndTime": "2026-01-28T08:00:00.000Z",
     "start": "2025-10-21T00:00:00.000Z",
-    "end": "2026-01-26T00:00:00.000Z",
-    "ttl": 1769563719
+    "end": "2026-01-28T00:00:00.000Z",
+    "ttl": 1769651401
   },
   "longest_weekly_streak": {
     "duration": 15,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-01-26T08:00:00.000Z",
+    "utcEndTime": "2026-01-28T08:00:00.000Z",
     "start": "2025-10-21T00:00:00.000Z",
-    "end": "2026-01-26T00:00:00.000Z"
+    "end": "2026-01-28T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
@@ -167,14 +168,14 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 63,
+    "daysLeftInCurrentChallenge": 62,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 2,
+    "totalEarnedAchievements": 3,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_ReadersDozen_49b2b7ea-eab2-4f91-9897-9ef7482f87d9.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_BronzeReader_135d1a59-dd53-3262-9a3d-f97eb0adb5df.png",
         "quantity": 1,
-        "title": "Reader's Dozen",
+        "title": "Bronze Reader",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
