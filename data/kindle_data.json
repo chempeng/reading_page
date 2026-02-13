@@ -85,15 +85,16 @@
     "2026-02-04",
     "2026-02-08",
     "2026-02-10",
-    "2026-02-11"
+    "2026-02-11",
+    "2026-02-12"
   ],
   "current_daily_streak": {
-    "duration": 2,
+    "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-11T08:00:00.000Z",
+    "utcEndTime": "2026-02-12T08:00:00.000Z",
     "start": "2026-02-10T00:00:00.000Z",
-    "end": "2026-02-11T00:00:00.000Z",
-    "ttl": 1770861534
+    "end": "2026-02-12T00:00:00.000Z",
+    "ttl": 1770948102
   },
   "longest_daily_streak": {
     "duration": 52,
@@ -105,17 +106,17 @@
   "current_weekly_streak": {
     "duration": 17,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-11T08:00:00.000Z",
+    "utcEndTime": "2026-02-12T08:00:00.000Z",
     "start": "2025-10-21T00:00:00.000Z",
-    "end": "2026-02-11T00:00:00.000Z",
-    "ttl": 1770861534
+    "end": "2026-02-12T00:00:00.000Z",
+    "ttl": 1770948102
   },
   "longest_weekly_streak": {
     "duration": 17,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-11T08:00:00.000Z",
+    "utcEndTime": "2026-02-12T08:00:00.000Z",
     "start": "2025-10-21T00:00:00.000Z",
-    "end": "2026-02-11T00:00:00.000Z"
+    "end": "2026-02-12T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
@@ -176,16 +177,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 48,
+    "daysLeftInCurrentChallenge": 47,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 3,
+    "totalEarnedAchievements": 4,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_HeadStart_896ce0f2-38a8-30c7-b3ac-0715b1a782ba.png",
-        "quantity": 2,
-        "title": "Head Start",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_ChampionReader_ff6be9ab-28d1-413c-a7ff-d07f314e8c4d.png",
+        "quantity": 1,
+        "title": "Champion Reader",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
+        "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_GoldReader_b382f6a0-5c4b-382c-95dd-6b9b05732870.png",
