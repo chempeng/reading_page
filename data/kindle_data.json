@@ -87,15 +87,16 @@
     "2026-02-10",
     "2026-02-11",
     "2026-02-12",
-    "2026-02-13"
+    "2026-02-13",
+    "2026-02-14"
   ],
   "current_daily_streak": {
-    "duration": 4,
+    "duration": 5,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-13T08:00:00.000Z",
+    "utcEndTime": "2026-02-14T08:00:00.000Z",
     "start": "2026-02-10T00:00:00.000Z",
-    "end": "2026-02-13T00:00:00.000Z",
-    "ttl": 1771033856
+    "end": "2026-02-14T00:00:00.000Z",
+    "ttl": 1771120863
   },
   "longest_daily_streak": {
     "duration": 52,
@@ -107,17 +108,17 @@
   "current_weekly_streak": {
     "duration": 17,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-13T08:00:00.000Z",
+    "utcEndTime": "2026-02-14T08:00:00.000Z",
     "start": "2025-10-21T00:00:00.000Z",
-    "end": "2026-02-13T00:00:00.000Z",
-    "ttl": 1771033856
+    "end": "2026-02-14T00:00:00.000Z",
+    "ttl": 1771120863
   },
   "longest_weekly_streak": {
     "duration": 17,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-13T08:00:00.000Z",
+    "utcEndTime": "2026-02-14T08:00:00.000Z",
     "start": "2025-10-21T00:00:00.000Z",
-    "end": "2026-02-13T00:00:00.000Z"
+    "end": "2026-02-14T00:00:00.000Z"
   },
   "current_weekly_streak_state": "record_streak_broken",
   "goal_info": {
@@ -178,14 +179,14 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 46,
+    "daysLeftInCurrentChallenge": 45,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 4,
+    "totalEarnedAchievements": 5,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_ChampionReader_ff6be9ab-28d1-413c-a7ff-d07f314e8c4d.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_SecretRecipe_518a4f12-619c-40b1-ac03-bbd9cec8ec9f.png",
         "quantity": 1,
-        "title": "Champion Reader",
+        "title": "Secret Recipe",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
