@@ -88,10 +88,16 @@
     "2026-02-11",
     "2026-02-12",
     "2026-02-13",
-    "2026-02-14"
+    "2026-02-14",
+    "2026-03-11"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-03-11T07:00:00.000Z",
+    "start": "2026-03-11T00:00:00.000Z",
+    "end": "2026-03-11T00:00:00.000Z",
+    "ttl": 1773280504
   },
   "longest_daily_streak": {
     "duration": 52,
@@ -101,7 +107,12 @@
     "end": "2025-12-13T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-03-11T07:00:00.000Z",
+    "start": "2026-03-11T00:00:00.000Z",
+    "end": "2026-03-11T00:00:00.000Z",
+    "ttl": 1773280504
   },
   "longest_weekly_streak": {
     "duration": 17,
@@ -110,7 +121,7 @@
     "start": "2025-10-21T00:00:00.000Z",
     "end": "2026-02-14T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "inactive",
+  "current_weekly_streak_state": "active",
   "goal_info": {
     "goals": {},
     "titles_read": [
@@ -169,16 +180,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 21,
+    "daysLeftInCurrentChallenge": 20,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 5,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_SecretRecipe_518a4f12-619c-40b1-ac03-bbd9cec8ec9f.png",
-        "quantity": 1,
-        "title": "Secret Recipe",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_HeadStart_896ce0f2-38a8-30c7-b3ac-0715b1a782ba.png",
+        "quantity": 3,
+        "title": "Head Start",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_GoldReader_b382f6a0-5c4b-382c-95dd-6b9b05732870.png",
