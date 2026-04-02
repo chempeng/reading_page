@@ -110,7 +110,7 @@
     "utcEndTime": "2026-03-27T07:00:00.000Z",
     "start": "2026-03-26T00:00:00.000Z",
     "end": "2026-03-27T00:00:00.000Z",
-    "ttl": 1775010208
+    "ttl": 1775095368
   },
   "longest_weekly_streak": {
     "duration": 17,
@@ -178,35 +178,35 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 0,
+    "daysLeftInCurrentChallenge": 90,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 5,
+    "totalEarnedAchievements": 0,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_HeadStart_896ce0f2-38a8-30c7-b3ac-0715b1a782ba.png",
-        "quantity": 3,
-        "title": "Head Start",
-        "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
-      },
-      {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_GoldReader_b382f6a0-5c4b-382c-95dd-6b9b05732870.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_GoldReader_d3173512-7315-3369-8a11-06f88d6fa347.png",
         "quantity": 0,
         "title": "Gold Reader",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_SilverReader_82641bcd-f5b6-3ac6-8f24-ebd06ca64066.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_SilverReader_2bd7c450-c9b7-3de1-848a-546ecacea042.png",
         "quantity": 0,
         "title": "Silver Reader",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_Bookish_6a55c846-0c52-3449-a1e7-55d7fb6cdef4.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_Bookish_924d3337-4102-38dc-a68f-59fe9a7b90a3.png",
         "quantity": 0,
         "title": "Bookish",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": false
+      },
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_Bibliophile_754718fd-17d2-36d8-a297-d41208e9325a.png",
+        "quantity": 0,
+        "title": "Bibliophile",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       }
