@@ -97,15 +97,16 @@
     "2026-04-15",
     "2026-04-16",
     "2026-04-17",
-    "2026-04-18"
+    "2026-04-18",
+    "2026-04-19"
   ],
   "current_daily_streak": {
-    "duration": 5,
+    "duration": 6,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-04-18T07:00:00.000Z",
+    "utcEndTime": "2026-04-19T07:00:00.000Z",
     "start": "2026-04-14T00:00:00.000Z",
-    "end": "2026-04-18T00:00:00.000Z",
-    "ttl": 1776565658
+    "end": "2026-04-19T00:00:00.000Z",
+    "ttl": 1776652086
   },
   "longest_daily_streak": {
     "duration": 52,
@@ -115,12 +116,12 @@
     "end": "2025-12-13T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 1,
+    "duration": 2,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-04-18T07:00:00.000Z",
+    "utcEndTime": "2026-04-19T07:00:00.000Z",
     "start": "2026-04-14T00:00:00.000Z",
-    "end": "2026-04-18T00:00:00.000Z",
-    "ttl": 1776565658
+    "end": "2026-04-19T00:00:00.000Z",
+    "ttl": 1776652086
   },
   "longest_weekly_streak": {
     "duration": 17,
@@ -188,16 +189,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 73,
+    "daysLeftInCurrentChallenge": 72,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 1,
+    "totalEarnedAchievements": 2,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_HeadStart_edfab7da-b953-33cf-a0fe-d3e6dacedd38.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_AprilShowers_24d899b4-000f-30cf-a071-999479530c90.png",
         "quantity": 1,
-        "title": "Head Start",
+        "title": "April Showers",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
+        "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_GoldReader_d3173512-7315-3369-8a11-06f88d6fa347.png",
