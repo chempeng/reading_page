@@ -106,15 +106,16 @@
     "2026-04-25",
     "2026-04-26",
     "2026-04-27",
-    "2026-04-28"
+    "2026-04-28",
+    "2026-04-29"
   ],
   "current_daily_streak": {
-    "duration": 4,
+    "duration": 5,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-04-28T07:00:00.000Z",
+    "utcEndTime": "2026-04-29T07:00:00.000Z",
     "start": "2026-04-25T00:00:00.000Z",
-    "end": "2026-04-28T00:00:00.000Z",
-    "ttl": 1777430412
+    "end": "2026-04-29T00:00:00.000Z",
+    "ttl": 1777516863
   },
   "longest_daily_streak": {
     "duration": 52,
@@ -126,10 +127,10 @@
   "current_weekly_streak": {
     "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-04-28T07:00:00.000Z",
+    "utcEndTime": "2026-04-29T07:00:00.000Z",
     "start": "2026-04-14T00:00:00.000Z",
-    "end": "2026-04-28T00:00:00.000Z",
-    "ttl": 1777430412
+    "end": "2026-04-29T00:00:00.000Z",
+    "ttl": 1777516863
   },
   "longest_weekly_streak": {
     "duration": 17,
@@ -197,14 +198,14 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 63,
+    "daysLeftInCurrentChallenge": 62,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 2,
+    "totalEarnedAchievements": 3,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_AprilShowers_24d899b4-000f-30cf-a071-999479530c90.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_BronzeReader_5004acc8-ed76-3505-9d31-02b565216e02.png",
         "quantity": 1,
-        "title": "April Showers",
+        "title": "Bronze Reader",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
