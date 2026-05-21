@@ -114,15 +114,16 @@
     "2026-05-15",
     "2026-05-17",
     "2026-05-18",
-    "2026-05-19"
+    "2026-05-19",
+    "2026-05-20"
   ],
   "current_daily_streak": {
-    "duration": 3,
+    "duration": 4,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-05-19T07:00:00.000Z",
+    "utcEndTime": "2026-05-20T07:00:00.000Z",
     "start": "2026-05-17T00:00:00.000Z",
-    "end": "2026-05-19T00:00:00.000Z",
-    "ttl": 1779245742
+    "end": "2026-05-20T00:00:00.000Z",
+    "ttl": 1779333846
   },
   "longest_daily_streak": {
     "duration": 52,
@@ -134,10 +135,10 @@
   "current_weekly_streak": {
     "duration": 6,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-05-19T07:00:00.000Z",
+    "utcEndTime": "2026-05-20T07:00:00.000Z",
     "start": "2026-04-14T00:00:00.000Z",
-    "end": "2026-05-19T00:00:00.000Z",
-    "ttl": 1779245742
+    "end": "2026-05-20T00:00:00.000Z",
+    "ttl": 1779333846
   },
   "longest_weekly_streak": {
     "duration": 17,
@@ -205,16 +206,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 42,
+    "daysLeftInCurrentChallenge": 41,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 3,
+    "totalEarnedAchievements": 4,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_HeadStart_edfab7da-b953-33cf-a0fe-d3e6dacedd38.png",
-        "quantity": 2,
-        "title": "Head Start",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_HaikuHappiness_b4398da5-c85f-3c27-9ba8-c166536eb879.png",
+        "quantity": 1,
+        "title": "Haiku Happiness",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
+        "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_GoldReader_d3173512-7315-3369-8a11-06f88d6fa347.png",
