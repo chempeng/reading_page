@@ -119,15 +119,16 @@
     "2026-05-21",
     "2026-05-22",
     "2026-05-30",
-    "2026-05-31"
+    "2026-05-31",
+    "2026-06-02"
   ],
   "current_daily_streak": {
-    "duration": 2,
+    "duration": 1,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-05-31T07:00:00.000Z",
-    "start": "2026-05-30T00:00:00.000Z",
-    "end": "2026-05-31T00:00:00.000Z",
-    "ttl": 1780371585
+    "utcEndTime": "2026-06-02T07:00:00.000Z",
+    "start": "2026-06-02T00:00:00.000Z",
+    "end": "2026-06-02T00:00:00.000Z",
+    "ttl": 1780458517
   },
   "longest_daily_streak": {
     "duration": 52,
@@ -139,10 +140,10 @@
   "current_weekly_streak": {
     "duration": 8,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-05-31T07:00:00.000Z",
+    "utcEndTime": "2026-06-02T07:00:00.000Z",
     "start": "2026-04-14T00:00:00.000Z",
-    "end": "2026-05-31T00:00:00.000Z",
-    "ttl": 1780371585
+    "end": "2026-06-02T00:00:00.000Z",
+    "ttl": 1780458517
   },
   "longest_weekly_streak": {
     "duration": 17,
@@ -210,16 +211,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 29,
+    "daysLeftInCurrentChallenge": 28,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 4,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_HaikuHappiness_b4398da5-c85f-3c27-9ba8-c166536eb879.png",
-        "quantity": 1,
-        "title": "Haiku Happiness",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_HeadStart_edfab7da-b953-33cf-a0fe-d3e6dacedd38.png",
+        "quantity": 3,
+        "title": "Head Start",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_GoldReader_d3173512-7315-3369-8a11-06f88d6fa347.png",
