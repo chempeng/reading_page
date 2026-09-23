@@ -136,6 +136,129 @@
     "2026-06-30",
     "2026-07-01",
     "2026-07-08",
-    "2026-07-10"
-  ]
+    "2026-07-10",
+    "2026-09-21"
+  ],
+  "current_daily_streak": {
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-09-21T07:00:00.000Z",
+    "start": "2026-09-21T00:00:00.000Z",
+    "end": "2026-09-21T00:00:00.000Z",
+    "ttl": 1790133080
+  },
+  "longest_daily_streak": {
+    "duration": 52,
+    "readingMarketplace": 1,
+    "utcEndTime": "2025-12-13T08:00:00.000Z",
+    "start": "2025-10-23T00:00:00.000Z",
+    "end": "2025-12-13T00:00:00.000Z"
+  },
+  "current_weekly_streak": {
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-09-21T07:00:00.000Z",
+    "start": "2026-09-21T00:00:00.000Z",
+    "end": "2026-09-21T00:00:00.000Z",
+    "ttl": 1790133080
+  },
+  "longest_weekly_streak": {
+    "duration": 17,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-02-14T08:00:00.000Z",
+    "start": "2025-10-21T00:00:00.000Z",
+    "end": "2026-02-14T00:00:00.000Z"
+  },
+  "current_weekly_streak_state": "active",
+  "goal_info": {
+    "goals": {},
+    "titles_read": [
+      {
+        "asin": "WZPVZO5MBKFSA4R5Z2Y2PSJNY33OGA6H",
+        "read_event_id": "a8218dfc-db20-4fca-a3eb-b54e42c0dbe7",
+        "date_read": "2025-11-29T08:36:25-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "4EBJE4EBPBH7YQRJEQGZFQOYON7FTI5E",
+        "read_event_id": "e6ba59d0-f6e5-4da2-ba5c-1f6ef2ca00e1",
+        "date_read": "2025-11-09T00:27:08-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "Z4MECTNJM7UDFYJB5OF7CTXY46US72QO",
+        "read_event_id": "f979895c-dccb-42f5-9965-8cab7c777667",
+        "date_read": "2025-11-04T08:54:39-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "YSZF3F37WRJZ5H7M3UAIWCWMK3XTZOBZ",
+        "read_event_id": "adf67c03-b213-4f9f-a2d6-bf4b8087c891",
+        "date_read": "2025-10-28T22:40:04-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "89B965055B1648CEA71827F9B02EF1D4",
+        "read_event_id": "3b37f66c-fa1b-484e-92b8-ab7a6fd5ee0f",
+        "date_read": "2024-06-04T15:51:42Z",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "F8FDD787C38F44A0A051C299191E8765",
+        "read_event_id": "904b4121-5a45-46d0-8e1b-f6dd7c820ed0",
+        "date_read": "2024-06-04T07:05:45Z",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      }
+    ],
+    "is_backfill_completed": true
+  },
+  "preferences": null,
+  "urcGatingWeblabTreatment": "T1",
+  "achievements_data": {
+    "daysLeftInCurrentChallenge": 8,
+    "totalAvailableAchievements": 15,
+    "totalEarnedAchievements": 1,
+    "achievementsDisplayAttributes": [
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_HeadStart_b8ece1b7-5ffd-34be-b59f-94b55b28286c.png",
+        "quantity": 2,
+        "title": "Head Start",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": true
+      },
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_GoldReader_f344ca0c-6289-329d-8040-e8a25d58886e.png",
+        "quantity": 0,
+        "title": "Gold Reader",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": false
+      },
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_SilverReader_79be1896-990f-3a1c-8f7d-a79d287b373d.png",
+        "quantity": 0,
+        "title": "Silver Reader",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": false
+      },
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_Bookish_6101bf78-9757-3c5a-bf34-3f69b27aac0d.png",
+        "quantity": 0,
+        "title": "Bookish",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": false
+      }
+    ]
+  }
 }
