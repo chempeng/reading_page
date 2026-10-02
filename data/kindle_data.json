@@ -155,7 +155,7 @@
     "utcEndTime": "2026-09-21T07:00:00.000Z",
     "start": "2026-09-21T00:00:00.000Z",
     "end": "2026-09-21T00:00:00.000Z",
-    "ttl": 1790827235
+    "ttl": 1790913400
   },
   "longest_weekly_streak": {
     "duration": 17,
@@ -164,7 +164,7 @@
     "start": "2025-10-21T00:00:00.000Z",
     "end": "2026-02-14T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "active",
+  "current_weekly_streak_state": "at_risk",
   "goal_info": {
     "goals": {},
     "titles_read": [
@@ -222,35 +222,35 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 0,
+    "daysLeftInCurrentChallenge": 91,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 1,
+    "totalEarnedAchievements": 0,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_HeadStart_b8ece1b7-5ffd-34be-b59f-94b55b28286c.png",
-        "quantity": 2,
-        "title": "Head Start",
-        "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
-      },
-      {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_GoldReader_f344ca0c-6289-329d-8040-e8a25d58886e.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_GoldReader_ac8cd0df-960b-3141-8675-e87eac63b93f.png",
         "quantity": 0,
         "title": "Gold Reader",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_SilverReader_79be1896-990f-3a1c-8f7d-a79d287b373d.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_SilverReader_71f910a5-b211-3544-967a-3fc78c94e6de.png",
         "quantity": 0,
         "title": "Silver Reader",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_Bookish_6101bf78-9757-3c5a-bf34-3f69b27aac0d.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_Bookish_4876ad16-8a20-36c5-8942-0e04d94b1361.png",
         "quantity": 0,
         "title": "Bookish",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": false
+      },
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_Bibliophile_594da21e-a9a0-3027-8cb1-b02b0a0ee2e6.png",
+        "quantity": 0,
+        "title": "Bibliophile",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       }
